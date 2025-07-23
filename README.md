@@ -4,7 +4,6 @@ This repository contains my journey to master Data Structures and Algorithms (DS
 I'm aiming to solve 300+ problems and become fully prepared for technical interviews at top tech companies
 
 ---
-
 ## Aim: *Microsoft*
 
 ## 📌 Why This Repo?
